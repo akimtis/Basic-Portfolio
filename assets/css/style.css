@@ -5,21 +5,18 @@
 body {
 	background: #dddddd;
 	color: #777777;
-	border: 2px solid black;
 	font-family: Arial, Helvetica, sans-serif;
 	height: 100%;
 }
 
 header {
 	background: #ffffff;
-	border: 2px solid red;
 	height: 100px;
 	margin:0 auto;
 }
 
 #name {
 	background: #4aaaa5;
-	border: 2px solid black;
 	width: 25%;
 	margin-left: 100px;
 	color: #ffffff;
@@ -30,7 +27,6 @@ header {
 }
 
 #nav {
-	border: 2px solid blue;
 	color: #ffffff;
 	text-align: center;
 	font-size: 18px;
@@ -46,7 +42,6 @@ header {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    border: 2px solid green;
     width: 100%;
     position: relative;
     bottom: 40px;
@@ -62,7 +57,6 @@ header {
     text-align: center;
     padding: 10px 10px;
     text-decoration: none;
-    border: 2px solid yellow;
     position: relative;
     right: 40px;
 }
@@ -70,7 +64,6 @@ header {
 #about-me{ 
 	background: #ffffff;
 	color: #4aaaa5;
-	border: 2px solid black;
 	width: 650px;
 	margin: 50px 50px 50px 125px;
 	padding: 15px 30px 30px 30px;
@@ -94,7 +87,6 @@ header {
 	clear:both;
 	background: #ffffff;
 	color: #4aaaa5;
-	border: 2px solid black;
 	float: left;
 	margin: 50px 50px 50px 50px;
 	text-align: center;
@@ -114,7 +106,6 @@ header {
 #contact {
 	background: #ffffff;
 	color: #4aaaa5;
-	border: 2px solid black;
 	width: 55%;
 	margin: 50px 50px 50px 125px;
 	padding: 15px 30px 30px 30px;
@@ -145,7 +136,6 @@ input {
 	clear:both;
 	background: #ffffff;
 	color: #grey;
-	border: 2px solid green;
 	float: left;
 	margin: 50px 50px 50px 100px;
 	text-align: center;
