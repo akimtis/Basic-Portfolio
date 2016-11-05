@@ -6,7 +6,7 @@ body {
 	background: #dddddd;
 	color: #777777;
 	border: 2px solid black;
-	font-family: Arial,'Helvetica-Neue', Helvetica, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	height: 100%;
 }
 
@@ -71,7 +71,7 @@ header {
 	background: #ffffff;
 	color: #4aaaa5;
 	border: 2px solid black;
-	width: 55%;
+	width: 650px;
 	margin: 50px 50px 50px 125px;
 	padding: 15px 30px 30px 30px;
 	line-height: 30px;
@@ -81,7 +81,7 @@ header {
 
 .one { 
 	height: 200px;
-	width: 200px; 
+	width: 220px; 
 	float: left;
 	padding: 0px 15px 0px 0px;
 }
@@ -140,6 +140,116 @@ input {
 	height: 50px;
 	display: block;
 }
+
+#portfolio {
+	clear:both;
+	background: #ffffff;
+	color: #grey;
+	border: 2px solid green;
+	float: left;
+	margin: 50px 50px 50px 100px;
+	text-align: center;
+	padding: 15px;
+	height: 650px;
+	width: 550px;
+	overflow: auto;
+}
+
+.three {
+	width: 200px;
+	height: 150px;
+	overflow: auto;
+	float: left;
+	margin: 15px;
+	position: relative;
+}
+
+#label_one {
+	background: #4aaaa5;
+	color: white;
+	margin: 15px;
+	width: 200px;
+	height: 50px;
+	float: left;
+	position: relative;
+	right: 230px;
+	top:80px;
+}
+
+#label_two {
+	background: #4aaaa5;
+	color: white;
+	margin: 15px;
+	width: 200px;
+	height: 50px;
+	float: left;
+	position: relative;
+	bottom: 180px;
+	left: 230px;
+}
+
+#label_three {
+	background: #4aaaa5;
+	color: white;
+	margin: 15px;
+	width: 200px;
+	height: 50px;
+	float: left;
+	position: relative;
+	bottom: 180px;
+}
+
+#label_four {
+	background: #4aaaa5;
+	color: white;
+	margin: 15px;
+	width: 200px;
+	height: 50px;
+	float: left;
+	position: relative;
+	bottom: 360px;
+	left: 230px;
+}
+
+
+#label_five {
+	background: #4aaaa5;
+	color: white;
+	padding: 20px auto 20px auto;
+	margin: 15px;
+	width: 200px;
+	height: 50px;
+	float: left;
+	position: relative;
+	bottom: 360px;
+}
+
+#class {
+	position: relative;
+}
+
+#school {
+	position: relative;
+	bottom: 80px;
+}
+
+#paint {
+	position: relative;
+	right: 230px;
+	bottom: 80px;
+}
+
+#green_leaves {
+	position: relative;
+	bottom: 260px;
+}
+
+#tinker {
+	position: relative;
+	bottom: 260px;
+	right: 230px;
+}
+
 
 
 #footer-cap {
